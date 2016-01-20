@@ -1,0 +1,4 @@
+class AddDeskriptionColomnToItems < ActiveRecord::Migration
+  def change
+  end
+end
